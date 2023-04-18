@@ -7,6 +7,9 @@ function AddForm() {
     setChecked(e.target.checked);
     
   };
+
+
+  
   return (
     <div className={styles.addresses__section}>
       <form className={styles.addresses__form}>
